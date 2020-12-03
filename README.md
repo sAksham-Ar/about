@@ -1,2 +1,2 @@
 # about
-NSSC abou page
+NSSC about page
